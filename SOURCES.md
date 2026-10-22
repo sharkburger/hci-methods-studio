@@ -10,11 +10,7 @@ The method notes, practical approaches, outputs, limitations, extension activiti
 
 ## Link and citation provenance
 
-Twelve embedded reading destinations are retained exactly as observed in the source’s weekly table. The Oxford Bibliographies material-culture URL and Asaro DOI, printed as text in that table, are retained too. Other article/footer destinations are preserved as source context. See [SOURCE_LINKS.md](SOURCE_LINKS.md).
-
-The original Swann PDF uses HTTP; its exact source URL is preserved. Original-link inclusion does not guarantee continued availability, HTTPS support, or open full-text access. No destination has been silently replaced with a guessed DOI.
-
-When the source gives no link, a separately located author/publisher page is labelled **Added publication / author link**. Otherwise, **Publication lookup** leads to a Crossref discovery query using the citation text. This is not a verified record or a full-text link. Incomplete authors, dates, or editions remain explicit. Minor typography/capitalization is normalized; source ambiguities such as Keshav’s listed year and the two Vaughn entries are marked rather than silently reconciled.
+Source destinations and citation order were recorded from the reference syllabus. Broken or repurposed addresses were replaced with publication or repository records. Unlinked citations now have specific book or article records rather than generic search queries. See [link checks](LINK_CHECKS.md) for access exceptions and [source destinations](SOURCE_LINKS.md). Edition differences are noted alongside readings.
 
 All entries have been catalogued; the full source reading corpus has **not** been read exhaustively. Method-level notes and teaching prompts are not represented as summaries of every assigned chapter or paper.
 
@@ -25,14 +21,14 @@ Alongside the reference bibliography, the following primary sources informed met
 - [Dourish: publications and ethnography materials](https://www.dourish.com/publications.html).
 - [Dourish (2007): Responsibilities and Implications](https://dourish.com/publications/2007/dux2007-ethnography.pdf).
 - [Charmaz: publisher-hosted grounded theory introduction](https://uk.sagepub.com/sites/default/files/upm-assets/146045_book_item_146045.pdf). This later-edition resource supports the method overview; it does not replace the reference course’s 2006 chapter assignments.
-- [Hayes (2011): The Relationship of Action Research to HCI](https://www.gillianhayes.com/wp-content/uploads/2012/08/J13-ActionResearchTOCHI.pdf).
-- [Mattelmäki (2006): Design Probes, institutional repository](https://aaltodoc.aalto.fi/items/65a46fd8-1dc4-4202-b8a9-520a011f8232).
+- [Hayes (2011): The Relationship of Action Research to HCI](https://doi.org/10.1145/1993060.1993065).
+- [Mattelmäki (2006): Design Probes, institutional repository](https://shop.aalto.fi/media/attachments/55d58/mattelmaki.pdf).
 - [Sanders & Stappers (2014): Probes, Toolkits and Prototypes, author institution](https://research.tudelft.nl/en/publications/probes-toolkits-and-prototypes-three-approaches-to-making-in-code/).
 - [Höök (2018): Designing with the Body](https://doi.org/10.7551/mitpress/11481.001.0001).
 - [Dourish: Where the Action Is, MIT Press](https://mitpress.mit.edu/9780262541787/where-the-action-is/).
 - [Wobbrock et al. (2011): Ability-Based Design, author publication record](https://www.eecs.harvard.edu/~kgajos/papers/2011/wobbrock11abd.shtml).
-- [Skivington et al. (2021): MRC complex-intervention framework](https://www.bmj.com/content/374/bmj.n2061).
-- [Eldridge et al. (2016): CONSORT extension for randomized pilot/feasibility trials](https://www.bmj.com/content/355/bmj.i5239).
+- [Skivington et al. (2021): MRC complex-intervention framework](https://pmc.ncbi.nlm.nih.gov/articles/PMC8482308/).
+- [Eldridge et al. (2016): CONSORT extension for randomized pilot/feasibility trials](https://pmc.ncbi.nlm.nih.gov/articles/PMC5076380/).
 - [PRISMA 2020 reporting resources](https://www.prisma-statement.org/prisma-2020).
 - [MacKenzie (1992): Fitts’ law](https://www.yorku.ca/mack/hci1992.html) and [Hansen et al. (2018): gaze/head/mouse comparison](https://www.yorku.ca/mack/etra2018.html).
 - [Wobbrock et al. (2011): Aligned Rank Transform](https://faculty.washington.edu/wobbrock/pubs/chi-11.06.pdf).

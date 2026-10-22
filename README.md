@@ -16,7 +16,7 @@ Live site: https://sharkburger.github.io/hci-methods-studio/
 - Search by title/author/topic, origin/method/week filters, expandable weeks, and deep links.
 - Reference assessment and policy context, original teaching aids, and a complete text version.
 
-See [COURSE.md](COURSE.md), [SOURCE_LINKS.md](SOURCE_LINKS.md), and [SOURCES.md](SOURCES.md). Source citations without a verified direct link use clearly marked Crossref publication lookups. Lookup links are discovery searches, not verified full texts.
+See [COURSE.md](COURSE.md), [SOURCE_LINKS.md](SOURCE_LINKS.md), and [SOURCES.md](SOURCES.md). Readings use specific article or book records. See [LINK_CHECKS.md](LINK_CHECKS.md) for access checks and exceptions.
 
 ## Run locally
 

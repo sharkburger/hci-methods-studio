@@ -366,11 +366,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Martin & Hanington · 2012",
       "title": "Universal Methods of Design — Introduction",
-      "url": "https://search.crossref.org/?q=Martin%20%26%20Hanington%20%C2%B7%202012%20Universal%20Methods%20of%20Design%20%E2%80%94%20Introduction",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781592537563",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Foundations"
+      "category": "Foundations",
+      "previousUrl": "https://search.crossref.org/?q=Martin%20%26%20Hanington%20%C2%B7%202012%20Universal%20Methods%20of%20Design%20%E2%80%94%20Introduction"
     },
     {
       "id": "s03",
@@ -378,23 +379,25 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Grand & Jonas (eds.) · 2012",
       "title": "Mapping Design Research — Introduction and Chapter 1",
-      "url": "https://search.crossref.org/?q=Grand%20%26%20Jonas%20%28eds.%29%20%C2%B7%202012%20Mapping%20Design%20Research%20%E2%80%94%20Introduction%20and%20Chapter%201",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9783034607162",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Foundations"
+      "category": "Foundations",
+      "previousUrl": "https://search.crossref.org/?q=Grand%20%26%20Jonas%20%28eds.%29%20%C2%B7%202012%20Mapping%20Design%20Research%20%E2%80%94%20Introduction%20and%20Chapter%201"
     },
     {
       "id": "s04",
       "week": 1,
       "tier": "Read",
       "authors": "Burrell & Morgan · 1979",
-      "title": "Social Paradigms and Organisational Analysis — Chapter 3",
-      "url": "https://search.crossref.org/?q=Burrell%20%26%20Morgan%20%C2%B7%201979%20Social%20Paradigms%20and%20Organisational%20Analysis%20%E2%80%94%20Chapter%203",
-      "linkType": "Publication lookup",
+      "title": "Sociological Paradigms and Organisational Analysis — Chapter 3",
+      "url": "https://books.google.com/books?id=sIHvswEACAAJ",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Foundations"
+      "category": "Foundations",
+      "previousUrl": "https://search.crossref.org/?q=Burrell%20%26%20Morgan%20%C2%B7%201979%20Social%20Paradigms%20and%20Organisational%20Analysis%20%E2%80%94%20Chapter%203"
     },
     {
       "id": "s05",
@@ -414,11 +417,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Emerson · 2011",
       "title": "Writing Ethnographic Fieldnotes — Chapter 2",
-      "url": "https://search.crossref.org/?q=Emerson%20%C2%B7%202011%20Writing%20Ethnographic%20Fieldnotes%20%E2%80%94%20Chapter%202",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780226206868",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Emerson%20%C2%B7%202011%20Writing%20Ethnographic%20Fieldnotes%20%E2%80%94%20Chapter%202"
     },
     {
       "id": "s07",
@@ -438,11 +442,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "van Manen · 2007",
       "title": "Phenomenology of Practice",
-      "url": "https://search.crossref.org/?q=van%20Manen%20%C2%B7%202007%20Phenomenology%20of%20Practice",
-      "linkType": "Publication lookup",
+      "url": "https://journals.library.ualberta.ca/pandpr/index.php/pandpr/article/view/19803",
+      "linkType": "Journal article",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=van%20Manen%20%C2%B7%202007%20Phenomenology%20of%20Practice"
     },
     {
       "id": "s09",
@@ -450,11 +455,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Zeisel · 2006",
       "title": "Focused Interviews — Chapter 10",
-      "url": "https://search.crossref.org/?q=Zeisel%20%C2%B7%202006%20Focused%20Interviews%20%E2%80%94%20Chapter%2010",
-      "linkType": "Publication lookup",
+      "url": "https://wwnorton.co.uk/books/9780393731842-inquiry-by-design",
+      "linkType": "Publisher book page",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Zeisel%20%C2%B7%202006%20Focused%20Interviews%20%E2%80%94%20Chapter%2010"
     },
     {
       "id": "s10",
@@ -462,11 +468,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Geertz · 1972",
       "title": "Deep Play: Notes on the Balinese Cockfight",
-      "url": "https://search.crossref.org/?q=Geertz%20%C2%B7%201972%20Deep%20Play%3A%20Notes%20on%20the%20Balinese%20Cockfight",
-      "linkType": "Publication lookup",
+      "url": "https://www.amacad.org/publication/daedalus/deep-play-notes-balinese-cockfight-1972",
+      "linkType": "Academy article / 2005 reprint",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://direct.mit.edu/daed/article/134/4/56/27395/Deep-play-notes-on-the-Balinese-cockfight"
     },
     {
       "id": "s11",
@@ -486,11 +493,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Laurier · 2008",
       "title": "How Breakfast Happens in the Cafe",
-      "url": "https://search.crossref.org/?q=Laurier%20%C2%B7%202008%20How%20Breakfast%20Happens%20in%20the%20Cafe",
-      "linkType": "Publication lookup",
+      "url": "https://www.ericlaurier.co.uk/resources/Writings/Laurier-2008-How-Breakfast.pdf",
+      "linkType": "Author-hosted PDF",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Laurier%20%C2%B7%202008%20How%20Breakfast%20Happens%20in%20the%20Cafe"
     },
     {
       "id": "s13",
@@ -498,11 +506,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Merton & Kendall · 1946",
       "title": "The Focused Interview",
-      "url": "https://search.crossref.org/?q=Merton%20%26%20Kendall%20%C2%B7%201946%20The%20Focused%20Interview",
-      "linkType": "Publication lookup",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/219886",
+      "linkType": "Publisher article",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Merton%20%26%20Kendall%20%C2%B7%201946%20The%20Focused%20Interview"
     },
     {
       "id": "s14",
@@ -510,11 +519,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Pink · 2015",
       "title": "Digital Ethnography: Principles & Practices",
-      "url": "https://search.crossref.org/?q=Pink%20%C2%B7%202015%20Digital%20Ethnography%3A%20Principles%20%26%20Practices",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781473902381",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Pink%20%C2%B7%202015%20Digital%20Ethnography%3A%20Principles%20%26%20Practices"
     },
     {
       "id": "s15",
@@ -522,11 +532,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Martin & Hanington · 2012",
       "title": "Universal Methods of Design — Case Studies",
-      "url": "https://search.crossref.org/?q=Martin%20%26%20Hanington%20%C2%B7%202012%20Universal%20Methods%20of%20Design%20%E2%80%94%20Case%20Studies",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781592537563",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Martin%20%26%20Hanington%20%C2%B7%202012%20Universal%20Methods%20of%20Design%20%E2%80%94%20Case%20Studies"
     },
     {
       "id": "s16",
@@ -534,11 +545,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Flyvbjerg · 2006",
       "title": "Five Misunderstandings About Case-Study Research",
-      "url": "https://search.crossref.org/?q=Flyvbjerg%20%C2%B7%202006%20Five%20Misunderstandings%20About%20Case-Study%20Research",
-      "linkType": "Publication lookup",
+      "url": "https://arxiv.org/abs/1304.1186",
+      "linkType": "Author-deposited manuscript",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Flyvbjerg%20%C2%B7%202006%20Five%20Misunderstandings%20About%20Case-Study%20Research"
     },
     {
       "id": "s17",
@@ -546,11 +558,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Zeisel · 2006",
       "title": "Archives — Chapter 13",
-      "url": "https://search.crossref.org/?q=Zeisel%20%C2%B7%202006%20Archives%20%E2%80%94%20Chapter%2013",
-      "linkType": "Publication lookup",
+      "url": "https://wwnorton.co.uk/books/9780393731842-inquiry-by-design",
+      "linkType": "Publisher book page",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Zeisel%20%C2%B7%202006%20Archives%20%E2%80%94%20Chapter%2013"
     },
     {
       "id": "s18",
@@ -558,11 +571,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Wyche, Sengers & Grinter · 2006",
       "title": "Historical Analysis: Using the Past to Design the Future",
-      "url": "https://search.crossref.org/?q=Wyche%2C%20Sengers%20%26%20Grinter%20%C2%B7%202006%20Historical%20Analysis%3A%20Using%20the%20Past%20to%20Design%20the%20Future",
-      "linkType": "Publication lookup",
+      "url": "https://doi.org/10.1007/11853565_3",
+      "linkType": "Publisher chapter",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Wyche%2C%20Sengers%20%26%20Grinter%20%C2%B7%202006%20Historical%20Analysis%3A%20Using%20the%20Past%20to%20Design%20the%20Future"
     },
     {
       "id": "s19",
@@ -570,11 +584,13 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Findeli · 1995",
       "title": "Design History and Design Studies: Methodological, Epistemological and Pedagogical Inquiry",
-      "url": "https://search.crossref.org/?q=Findeli%20%C2%B7%201995%20Design%20History%20and%20Design%20Studies%3A%20Methodological%2C%20Epistemological%20and%20Pedagogical%20Inquiry",
-      "linkType": "Publication lookup",
+      "url": "https://doi.org/10.2307/1511615",
+      "linkType": "Publisher article",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Findeli%20%C2%B7%201995%20Design%20History%20and%20Design%20Studies%3A%20Methodological%2C%20Epistemological%20and%20Pedagogical%20Inquiry",
+      "accessNote": "This destination requires security verification or institutional access; direct access could not be confirmed in the latest check."
     },
     {
       "id": "s20",
@@ -582,11 +598,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Hajer · 2005",
       "title": "Rebuilding Ground Zero: The Politics of Performance",
-      "url": "https://search.crossref.org/?q=Hajer%20%C2%B7%202005%20Rebuilding%20Ground%20Zero%3A%20The%20Politics%20of%20Performance",
-      "linkType": "Publication lookup",
+      "url": "https://doi.org/10.1080/14649350500349623",
+      "linkType": "Publisher article",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Hajer%20%C2%B7%202005%20Rebuilding%20Ground%20Zero%3A%20The%20Politics%20of%20Performance"
     },
     {
       "id": "s21",
@@ -594,11 +611,13 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Yin · 2003",
       "title": "Case Study Research: Design & Methods",
-      "url": "https://search.crossref.org/?q=Yin%20%C2%B7%202003%20Case%20Study%20Research%3A%20Design%20%26%20Methods",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780761925538",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Yin%20%C2%B7%202003%20Case%20Study%20Research%3A%20Design%20%26%20Methods",
+      "editionNote": "Catalog page lists editions; use the assigned year and chapter scope above."
     },
     {
       "id": "s22",
@@ -606,11 +625,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Atkinson & Oppenheimer · 2016",
       "title": "Histories for Future Focused Thinking",
-      "url": "https://search.crossref.org/?q=Atkinson%20%26%20Oppenheimer%20%C2%B7%202016%20Histories%20for%20Future%20Focused%20Thinking",
-      "linkType": "Publication lookup",
+      "url": "https://doi.org/10.21606/drs.2016.510",
+      "linkType": "Conference paper",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Atkinson%20%26%20Oppenheimer%20%C2%B7%202016%20Histories%20for%20Future%20Focused%20Thinking"
     },
     {
       "id": "s23",
@@ -630,11 +650,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Charmaz · 2006",
       "title": "Constructing Grounded Theory — Chapters 5 and 6",
-      "url": "https://search.crossref.org/?q=Charmaz%20%C2%B7%202006%20Constructing%20Grounded%20Theory%20%E2%80%94%20Chapters%205%20and%206",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780761973539",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Charmaz%20%C2%B7%202006%20Constructing%20Grounded%20Theory%20%E2%80%94%20Chapters%205%20and%206"
     },
     {
       "id": "s25",
@@ -642,11 +663,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Creswell · 2007 (spelled Cresswell in source)",
       "title": "Qualitative Inquiry and Research Design — Chapters 4 and 10",
-      "url": "https://search.crossref.org/?q=Creswell%20%C2%B7%202007%20%28spelled%20Cresswell%20in%20source%29%20Qualitative%20Inquiry%20and%20Research%20Design%20%E2%80%94%20Chapters%204%20and%2010",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781412916073",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Creswell%20%C2%B7%202007%20%28spelled%20Cresswell%20in%20source%29%20Qualitative%20Inquiry%20and%20Research%20Design%20%E2%80%94%20Chapters%204%20and%2010"
     },
     {
       "id": "s26",
@@ -654,11 +676,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Charmaz · 2006",
       "title": "Constructing Grounded Theory — Chapters 7 and 8",
-      "url": "https://search.crossref.org/?q=Charmaz%20%C2%B7%202006%20Constructing%20Grounded%20Theory%20%E2%80%94%20Chapters%207%20and%208",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780761973539",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Qualitative"
+      "category": "Qualitative",
+      "previousUrl": "https://search.crossref.org/?q=Charmaz%20%C2%B7%202006%20Constructing%20Grounded%20Theory%20%E2%80%94%20Chapters%207%20and%208"
     },
     {
       "id": "s27",
@@ -666,11 +689,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Villari · 2017",
       "title": "Action Research Approach in Design Research — Chapter 24, The Routledge Companion to Design Research",
-      "url": "https://search.crossref.org/?q=Villari%20%C2%B7%202017%20Action%20Research%20Approach%20in%20Design%20Research%20%E2%80%94%20Chapter%2024%2C%20The%20Routledge%20Companion%20to%20Design%20Research",
-      "linkType": "Publication lookup",
+      "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I025573553",
+      "linkType": "National library catalog / containing book",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Villari%20%C2%B7%202017%20Action%20Research%20Approach%20in%20Design%20Research%20%E2%80%94%20Chapter%2024%2C%20The%20Routledge%20Companion%20to%20Design%20Research"
     },
     {
       "id": "s28",
@@ -678,11 +702,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Kurt Lewin resource",
       "title": "Groups, Experiential Learning and Action Research",
-      "url": "https://infed.org/dir/welcome/kurt-lewin-groups-experiential-learning-and-action-research/",
-      "linkType": "Original syllabus link",
+      "url": "https://www.psicopolis.com/kurt/lewin.pdf",
+      "linkType": "Archived article PDF",
       "originalLink": true,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://infed.org/dir/welcome/kurt-lewin-groups-experiential-learning-and-action-research/"
     },
     {
       "id": "s29",
@@ -690,11 +715,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Archer · 1995",
       "title": "The Nature of Research",
-      "url": "https://search.crossref.org/?q=Archer%20%C2%B7%201995%20The%20Nature%20of%20Research",
-      "linkType": "Publication lookup",
+      "url": "https://archive.org/details/TheNatureOfResearch",
+      "linkType": "Archived article",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Archer%20%C2%B7%201995%20The%20Nature%20of%20Research"
     },
     {
       "id": "s30",
@@ -702,23 +728,25 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Koskinen, Zimmerman, Binder, Redström & Wensveen · 2011",
       "title": "Design Research Through Practice",
-      "url": "https://search.crossref.org/?q=Koskinen%2C%20Zimmerman%2C%20Binder%2C%20Redstr%C3%B6m%20%26%20Wensveen%20%C2%B7%202011%20Design%20Research%20Through%20Practice",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780123855022",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Koskinen%2C%20Zimmerman%2C%20Binder%2C%20Redstr%C3%B6m%20%26%20Wensveen%20%C2%B7%202011%20Design%20Research%20Through%20Practice"
     },
     {
       "id": "s31",
       "week": 5,
       "tier": "Read",
-      "authors": "Vaughn · 2017 (as listed)",
+      "authors": "Vaughan · 2017 (as listed)",
       "title": "Practice Based Design Research",
-      "url": "https://search.crossref.org/?q=Vaughn%20%C2%B7%202017%20%28as%20listed%29%20Practice%20Based%20Design%20Research",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781474267809",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Vaughn%20%C2%B7%202017%20%28as%20listed%29%20Practice%20Based%20Design%20Research"
     },
     {
       "id": "s32",
@@ -738,11 +766,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Swann · 2002",
       "title": "Action Research and the Practice of Design",
-      "url": "http://www.spatialdesign.info/blog/wp-content/uploads/2007/12/Swann_DesIss_2002.pdf",
-      "linkType": "Original syllabus link",
+      "url": "https://doi.org/10.1162/07479360252756287",
+      "linkType": "Publisher article",
       "originalLink": true,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "http://www.spatialdesign.info/blog/wp-content/uploads/2007/12/Swann_DesIss_2002.pdf"
     },
     {
       "id": "s34",
@@ -760,13 +789,14 @@ window.COURSE = {
       "id": "s35",
       "week": 5,
       "tier": "Stretch",
-      "authors": "Vaughn · 2019 (as listed)",
+      "authors": "Vaughan · 2019 (as listed)",
       "title": "Practice Based Design Research",
-      "url": "https://search.crossref.org/?q=Vaughn%20%C2%B7%202019%20%28as%20listed%29%20Practice%20Based%20Design%20Research",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781474267809",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Vaughn%20%C2%B7%202019%20%28as%20listed%29%20Practice%20Based%20Design%20Research"
     },
     {
       "id": "s36",
@@ -774,11 +804,13 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Göransdotter · 2022",
       "title": "Designing Together: On Histories of Scandinavian User-Centred Design — pp. 157–177, Nordic Design Cultures in Transformation, 1960–1980",
-      "url": "https://search.crossref.org/?q=G%C3%B6ransdotter%20%C2%B7%202022%20Designing%20Together%3A%20On%20Histories%20of%20Scandinavian%20User-Centred%20Design%20%E2%80%94%20pp.%20157%E2%80%93177%2C%20Nordic%20Design%20Cultures%20in%20Transformation%2C%201960%E2%80%931980",
-      "linkType": "Publication lookup",
+      "url": "https://library.oapen.org/bitstream/id/a1c78530-af6e-4dd5-898e-6c5b33203f8b/9781000736359.pdf",
+      "linkType": "Open-access book PDF",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=G%C3%B6ransdotter%20%C2%B7%202022%20Designing%20Together%3A%20On%20Histories%20of%20Scandinavian%20User-Centred%20Design%20%E2%80%94%20pp.%20157%E2%80%93177%2C%20Nordic%20Design%20Cultures%20in%20Transformation%2C%201960%E2%80%931980",
+      "accessNote": "This destination requires security verification or institutional access; direct access could not be confirmed in the latest check."
     },
     {
       "id": "s37",
@@ -786,11 +818,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Routledge",
       "title": "International Handbook of Participatory Design — Chapters 6 and 7",
-      "url": "https://search.crossref.org/?q=Routledge%20International%20Handbook%20of%20Participatory%20Design%20%E2%80%94%20Chapters%206%20and%207",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780415694407",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Routledge%20International%20Handbook%20of%20Participatory%20Design%20%E2%80%94%20Chapters%206%20and%207"
     },
     {
       "id": "s38",
@@ -810,11 +843,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Hayes · 2011",
       "title": "The Relationship of Action Research to Human-Computer Interaction",
-      "url": "https://www.gillianhayes.com/wp-content/uploads/2012/08/J13-ActionResearchTOCHI.pdf",
-      "linkType": "Added publication / author link",
+      "url": "https://doi.org/10.1145/1993060.1993065",
+      "linkType": "Publisher article",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://www.gillianhayes.com/wp-content/uploads/2012/08/J13-ActionResearchTOCHI.pdf"
     },
     {
       "id": "s40",
@@ -826,7 +860,8 @@ window.COURSE = {
       "linkType": "URL printed in syllabus",
       "originalLink": true,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "accessNote": "This destination requires security verification or institutional access; direct access could not be confirmed in the latest check."
     },
     {
       "id": "s41",
@@ -834,11 +869,13 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Ehn · 1989",
       "title": "Mirror, Mirror on the Wall… The Cartesian Approach and Beyond — Work-Oriented Design of Computer Artifacts, pp. 46–62",
-      "url": "https://search.crossref.org/?q=Ehn%20%C2%B7%201989%20Mirror%2C%20Mirror%20on%20the%20Wall%E2%80%A6%20The%20Cartesian%20Approach%20and%20Beyond%20%E2%80%94%20Work-Oriented%20Design%20of%20Computer%20Artifacts%2C%20pp.%2046%E2%80%9362",
-      "linkType": "Publication lookup",
+      "url": "https://www.diva-portal.org/smash/get/diva2%3A580037/FULLTEXT02.pdf",
+      "linkType": "University repository / book PDF",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Ehn%20%C2%B7%201989%20Mirror%2C%20Mirror%20on%20the%20Wall%E2%80%A6%20The%20Cartesian%20Approach%20and%20Beyond%20%E2%80%94%20Work-Oriented%20Design%20of%20Computer%20Artifacts%2C%20pp.%2046%E2%80%9362",
+      "editionNote": "Catalog page lists editions; use the assigned year and chapter scope above."
     },
     {
       "id": "s42",
@@ -882,11 +919,13 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Book listed without authors in source",
       "title": "Convivial Toolbox",
-      "url": "https://search.crossref.org/?q=Book%20listed%20without%20authors%20in%20source%20Convivial%20Toolbox",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9789063692841",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Book%20listed%20without%20authors%20in%20source%20Convivial%20Toolbox",
+      "editionNote": "Catalog page lists editions; use the assigned year and chapter scope above."
     },
     {
       "id": "s46",
@@ -898,7 +937,8 @@ window.COURSE = {
       "linkType": "URL printed in syllabus",
       "originalLink": true,
       "origin": "Reference syllabus",
-      "category": "Material culture"
+      "category": "Material culture",
+      "accessNote": "This destination requires security verification or institutional access; direct access could not be confirmed in the latest check."
     },
     {
       "id": "s47",
@@ -906,11 +946,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Book listed without authors in source",
       "title": "Material Culture in America — Introduction and selected entries",
-      "url": "https://search.crossref.org/?q=Book%20listed%20without%20authors%20in%20source%20Material%20Culture%20in%20America%20%E2%80%94%20Introduction%20and%20selected%20entries",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781576076477",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Material culture"
+      "category": "Material culture",
+      "previousUrl": "https://search.crossref.org/?q=Book%20listed%20without%20authors%20in%20source%20Material%20Culture%20in%20America%20%E2%80%94%20Introduction%20and%20selected%20entries"
     },
     {
       "id": "s48",
@@ -918,11 +959,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Appadurai",
       "title": "The Social Life of Things — Chapters 1 and 2",
-      "url": "https://search.crossref.org/?q=Appadurai%20The%20Social%20Life%20of%20Things%20%E2%80%94%20Chapters%201%20and%202",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?id=6JqTcziwKTYC",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Material culture"
+      "category": "Material culture",
+      "previousUrl": "https://search.crossref.org/?q=Appadurai%20The%20Social%20Life%20of%20Things%20%E2%80%94%20Chapters%201%20and%202"
     },
     {
       "id": "s49",
@@ -930,11 +972,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Redström & Wiltse",
       "title": "Changing Things — Chapters 2 and 3",
-      "url": "https://search.crossref.org/?q=Redstr%C3%B6m%20%26%20Wiltse%20Changing%20Things%20%E2%80%94%20Chapters%202%20and%203",
-      "linkType": "Publication lookup",
+      "url": "https://heatherwiltse.me/publications/",
+      "linkType": "Author publications / book entry",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Material culture"
+      "category": "Material culture",
+      "previousUrl": "https://search.crossref.org/?q=Redstr%C3%B6m%20%26%20Wiltse%20Changing%20Things%20%E2%80%94%20Chapters%202%20and%203"
     },
     {
       "id": "s50",
@@ -942,11 +985,13 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Barad",
       "title": "Meeting the Universe Halfway",
-      "url": "https://search.crossref.org/?q=Barad%20Meeting%20the%20Universe%20Halfway",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780822339175",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Material culture"
+      "category": "Material culture",
+      "previousUrl": "https://search.crossref.org/?q=Barad%20Meeting%20the%20Universe%20Halfway",
+      "editionNote": "Catalog page lists editions; use the assigned year and chapter scope above."
     },
     {
       "id": "s51",
@@ -954,11 +999,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Carlile (as listed)",
       "title": "How Matter Matters",
-      "url": "https://search.crossref.org/?q=Carlile%20%28as%20listed%29%20How%20Matter%20Matters",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780199671533",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Material culture"
+      "category": "Material culture",
+      "previousUrl": "https://search.crossref.org/?q=Carlile%20%28as%20listed%29%20How%20Matter%20Matters"
     },
     {
       "id": "s52",
@@ -966,11 +1012,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Malafouris",
       "title": "How Things Shape the Mind",
-      "url": "https://search.crossref.org/?q=Malafouris%20How%20Things%20Shape%20the%20Mind",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780262019194",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Material culture"
+      "category": "Material culture",
+      "previousUrl": "https://search.crossref.org/?q=Malafouris%20How%20Things%20Shape%20the%20Mind"
     },
     {
       "id": "s53",
@@ -978,11 +1025,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Martin & Hanington · 2012",
       "title": "Universal Methods of Design — Exploratory Research, Observation, Participant Observation, Photo Studies, Shadowing, Think-aloud Protocol",
-      "url": "https://search.crossref.org/?q=Martin%20%26%20Hanington%20%C2%B7%202012%20Universal%20Methods%20of%20Design%20%E2%80%94%20Exploratory%20Research%2C%20Observation%2C%20Participant%20Observation%2C%20Photo%20Studies%2C%20Shadowing%2C%20Think-aloud%20Protocol",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781592537563",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Usability"
+      "category": "Usability",
+      "previousUrl": "https://search.crossref.org/?q=Martin%20%26%20Hanington%20%C2%B7%202012%20Universal%20Methods%20of%20Design%20%E2%80%94%20Exploratory%20Research%2C%20Observation%2C%20Participant%20Observation%2C%20Photo%20Studies%2C%20Shadowing%2C%20Think-aloud%20Protocol"
     },
     {
       "id": "s54",
@@ -990,11 +1038,13 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Brandes, Stich & Wender · 2009",
       "title": "Design by Use: The Everyday Metamorphosis of Things",
-      "url": "https://search.crossref.org/?q=Brandes%2C%20Stich%20%26%20Wender%20%C2%B7%202009%20Design%20by%20Use%3A%20The%20Everyday%20Metamorphosis%20of%20Things",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9783764388676",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Usability"
+      "category": "Usability",
+      "previousUrl": "https://search.crossref.org/?q=Brandes%2C%20Stich%20%26%20Wender%20%C2%B7%202009%20Design%20by%20Use%3A%20The%20Everyday%20Metamorphosis%20of%20Things",
+      "editionNote": "Catalog page lists editions; use the assigned year and chapter scope above."
     },
     {
       "id": "s55",
@@ -1002,11 +1052,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Zeisel · 2006",
       "title": "Observing Physical Traces — Chapter 8",
-      "url": "https://search.crossref.org/?q=Zeisel%20%C2%B7%202006%20Observing%20Physical%20Traces%20%E2%80%94%20Chapter%208",
-      "linkType": "Publication lookup",
+      "url": "https://wwnorton.co.uk/books/9780393731842-inquiry-by-design",
+      "linkType": "Publisher book page",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Usability"
+      "category": "Usability",
+      "previousUrl": "https://search.crossref.org/?q=Zeisel%20%C2%B7%202006%20Observing%20Physical%20Traces%20%E2%80%94%20Chapter%208"
     },
     {
       "id": "s56",
@@ -1014,11 +1065,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Zeisel · 2006",
       "title": "Environmental Behavior",
-      "url": "https://search.crossref.org/?q=Zeisel%20%C2%B7%202006%20Environmental%20Behavior",
-      "linkType": "Publication lookup",
+      "url": "https://wwnorton.co.uk/books/9780393731842-inquiry-by-design",
+      "linkType": "Publisher book page",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Usability"
+      "category": "Usability",
+      "previousUrl": "https://search.crossref.org/?q=Zeisel%20%C2%B7%202006%20Environmental%20Behavior"
     },
     {
       "id": "s57",
@@ -1026,11 +1078,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Goldschmidt · 2014",
       "title": "Linkography: Unfolding the Design Process",
-      "url": "https://search.crossref.org/?q=Goldschmidt%20%C2%B7%202014%20Linkography%3A%20Unfolding%20the%20Design%20Process",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?id=jXEbAwAAQBAJ",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Usability"
+      "category": "Usability",
+      "previousUrl": "https://search.crossref.org/?q=Goldschmidt%20%C2%B7%202014%20Linkography%3A%20Unfolding%20the%20Design%20Process"
     },
     {
       "id": "s58",
@@ -1038,11 +1091,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Mattelmäki · 2006",
       "title": "Design Probes",
-      "url": "https://aaltodoc.aalto.fi/items/65a46fd8-1dc4-4202-b8a9-520a011f8232",
-      "linkType": "Added publication / author link",
+      "url": "https://shop.aalto.fi/media/attachments/55d58/mattelmaki.pdf",
+      "linkType": "University-hosted book PDF",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://aaltodoc.aalto.fi/items/65a46fd8-1dc4-4202-b8a9-520a011f8232"
     },
     {
       "id": "s59",
@@ -1062,11 +1116,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Gaver, Dunne & Pacenti · 1999",
       "title": "Design: Cultural Probes",
-      "url": "https://search.crossref.org/?q=Gaver%2C%20Dunne%20%26%20Pacenti%20%C2%B7%201999%20Design%3A%20Cultural%20Probes",
-      "linkType": "Publication lookup",
+      "url": "https://arl.human.cornell.edu/linked%20docs/Cultural%20Probes_Gaver.pdf",
+      "linkType": "University-hosted PDF",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Gaver%2C%20Dunne%20%26%20Pacenti%20%C2%B7%201999%20Design%3A%20Cultural%20Probes"
     },
     {
       "id": "s61",
@@ -1074,11 +1129,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Çerçi, Cecchinato & Vines · 2021",
       "title": "How Design Researchers Interpret Probes: Understanding the Critical Intentions of a Designerly Approach to Research",
-      "url": "https://search.crossref.org/?q=%C3%87er%C3%A7i%2C%20Cecchinato%20%26%20Vines%20%C2%B7%202021%20How%20Design%20Researchers%20Interpret%20Probes%3A%20Understanding%20the%20Critical%20Intentions%20of%20a%20Designerly%20Approach%20to%20Research",
-      "linkType": "Publication lookup",
+      "url": "https://researchportal.northumbria.ac.uk/ws/files/44198772/Cerci_chi21_288_accesible_pdf_13_.pdf",
+      "linkType": "Author manuscript / university repository",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=%C3%87er%C3%A7i%2C%20Cecchinato%20%26%20Vines%20%C2%B7%202021%20How%20Design%20Researchers%20Interpret%20Probes%3A%20Understanding%20the%20Critical%20Intentions%20of%20a%20Designerly%20Approach%20to%20Research"
     },
     {
       "id": "s62",
@@ -1086,11 +1142,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Gaver, Boucher, Pennington & Walker · 2004",
       "title": "Cultural Probes and the Value of Uncertainty",
-      "url": "https://search.crossref.org/?q=Gaver%2C%20Boucher%2C%20Pennington%20%26%20Walker%20%C2%B7%202004%20Cultural%20Probes%20and%20the%20Value%20of%20Uncertainty",
-      "linkType": "Publication lookup",
+      "url": "https://research.gold.ac.uk/4720/1/p53-gaver.pdf",
+      "linkType": "University repository PDF",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Gaver%2C%20Boucher%2C%20Pennington%20%26%20Walker%20%C2%B7%202004%20Cultural%20Probes%20and%20the%20Value%20of%20Uncertainty"
     },
     {
       "id": "s63",
@@ -1098,11 +1155,12 @@ window.COURSE = {
       "tier": "Stretch",
       "authors": "Graham, Rouncefield, Gibbs, Vetere & Cheverst · 2007",
       "title": "How Probes Work",
-      "url": "https://search.crossref.org/?q=Graham%2C%20Rouncefield%2C%20Gibbs%2C%20Vetere%20%26%20Cheverst%20%C2%B7%202007%20How%20Probes%20Work",
-      "linkType": "Publication lookup",
+      "url": "https://eprints.lancs.ac.uk/id/eprint/41546/",
+      "linkType": "University repository",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Design"
+      "category": "Design",
+      "previousUrl": "https://search.crossref.org/?q=Graham%2C%20Rouncefield%2C%20Gibbs%2C%20Vetere%20%26%20Cheverst%20%C2%B7%202007%20How%20Probes%20Work"
     },
     {
       "id": "s64",
@@ -1110,11 +1168,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Irwin, Kossoff & Tonkinwise · 2015 (source order)",
       "title": "Transition Design Provocation",
-      "url": "https://search.crossref.org/?q=Irwin%2C%20Kossoff%20%26%20Tonkinwise%20%C2%B7%202015%20%28source%20order%29%20Transition%20Design%20Provocation",
-      "linkType": "Publication lookup",
+      "url": "https://www.thestudioattheedgeoftheworld.com/uploads/4/7/4/0/47403357/1irwin-et-alprovocation.pdf",
+      "linkType": "Author-studio PDF",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Futures"
+      "category": "Futures",
+      "previousUrl": "https://search.crossref.org/?q=Irwin%2C%20Kossoff%20%26%20Tonkinwise%20%C2%B7%202015%20%28source%20order%29%20Transition%20Design%20Provocation"
     },
     {
       "id": "s65",
@@ -1122,11 +1181,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Fry · 2008",
       "title": "Design Futuring — Chapters 4, 5, 7, 8 and 9; prioritize 4 and 5 if time is limited",
-      "url": "https://search.crossref.org/?q=Fry%20%C2%B7%202008%20Design%20Futuring%20%E2%80%94%20Chapters%204%2C%205%2C%207%2C%208%20and%209%3B%20prioritize%204%20and%205%20if%20time%20is%20limited",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781847882189",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Futures"
+      "category": "Futures",
+      "previousUrl": "https://search.crossref.org/?q=Fry%20%C2%B7%202008%20Design%20Futuring%20%E2%80%94%20Chapters%204%2C%205%2C%207%2C%208%20and%209%3B%20prioritize%204%20and%205%20if%20time%20is%20limited"
     },
     {
       "id": "s66",
@@ -1134,11 +1194,13 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Quist · 2007",
       "title": "Backcasting for a Sustainable Future: The Impact After 10 Years — Chapter 2",
-      "url": "https://search.crossref.org/?q=Quist%20%C2%B7%202007%20Backcasting%20for%20a%20Sustainable%20Future%3A%20The%20Impact%20After%2010%20Years%20%E2%80%94%20Chapter%202",
-      "linkType": "Publication lookup",
+      "url": "https://research.tudelft.nl/en/publications/backcasting-for-a-sustainable-future/",
+      "linkType": "University thesis record",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Futures"
+      "category": "Futures",
+      "previousUrl": "https://search.crossref.org/?q=Quist%20%C2%B7%202007%20Backcasting%20for%20a%20Sustainable%20Future%3A%20The%20Impact%20After%2010%20Years%20%E2%80%94%20Chapter%202",
+      "editionNote": "Catalog page lists editions; use the assigned year and chapter scope above."
     },
     {
       "id": "s67",
@@ -1146,11 +1208,12 @@ window.COURSE = {
       "tier": "Do",
       "authors": "Fry · 2007",
       "title": "Redirective Practice: An Elaboration",
-      "url": "https://search.crossref.org/?q=Fry%20%C2%B7%202007%20Redirective%20Practice%3A%20An%20Elaboration",
-      "linkType": "Publication lookup",
+      "url": "https://doi.org/10.2752/144871307X13966292017072",
+      "linkType": "Publisher article",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Futures"
+      "category": "Futures",
+      "previousUrl": "https://search.crossref.org/?q=Fry%20%C2%B7%202007%20Redirective%20Practice%3A%20An%20Elaboration"
     },
     {
       "id": "s68",
@@ -1158,11 +1221,12 @@ window.COURSE = {
       "tier": "Do",
       "authors": "Akama · 2017",
       "title": "“With Great Power Comes Great Responsibility” When We Co-create Futures",
-      "url": "https://search.crossref.org/?q=Akama%20%C2%B7%202017%20%E2%80%9CWith%20Great%20Power%20Comes%20Great%20Responsibility%E2%80%9D%20When%20We%20Co-create%20Futures",
-      "linkType": "Publication lookup",
+      "url": "https://doi.org/10.1080/0267257X.2017.1284433",
+      "linkType": "Publisher article",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Futures"
+      "category": "Futures",
+      "previousUrl": "https://search.crossref.org/?q=Akama%20%C2%B7%202017%20%E2%80%9CWith%20Great%20Power%20Comes%20Great%20Responsibility%E2%80%9D%20When%20We%20Co-create%20Futures"
     },
     {
       "id": "s69",
@@ -1170,11 +1234,13 @@ window.COURSE = {
       "tier": "Read",
       "authors": "De Vaus · 2013",
       "title": "Surveys in Social Research",
-      "url": "https://search.crossref.org/?q=De%20Vaus%20%C2%B7%202013%20Surveys%20in%20Social%20Research",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9780415530187",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Quantitative"
+      "category": "Quantitative",
+      "previousUrl": "https://search.crossref.org/?q=De%20Vaus%20%C2%B7%202013%20Surveys%20in%20Social%20Research",
+      "editionNote": "Catalog page lists editions; use the assigned year and chapter scope above."
     },
     {
       "id": "s70",
@@ -1192,13 +1258,15 @@ window.COURSE = {
       "id": "s71",
       "week": 13,
       "tier": "Read",
-      "authors": "Hesse-Biber & Leavy · 2007",
+      "authors": "Harnois · 2013",
       "title": "Feminist Measures in Survey Research",
-      "url": "https://www.sagepub.com/sites/default/files/upm-assets/45934_book_item_45934.pdf",
-      "linkType": "Original syllabus link",
+      "url": "https://books.google.com/books?id=X1d2AwAAQBAJ",
+      "linkType": "Book record / preview",
       "originalLink": true,
       "origin": "Reference syllabus",
-      "category": "Quantitative"
+      "category": "Quantitative",
+      "previousUrl": "https://www.sagepub.com/sites/default/files/upm-assets/45934_book_item_45934.pdf",
+      "editionNote": "The original syllabus attributes this to Hesse-Biber & Leavy (2007), but its linked excerpt is from Harnois’s book."
     },
     {
       "id": "s72",
@@ -1218,11 +1286,12 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Hanington & Martin · 2012",
       "title": "Universal Methods of Design — Section 38: Experiments",
-      "url": "https://search.crossref.org/?q=Hanington%20%26%20Martin%20%C2%B7%202012%20Universal%20Methods%20of%20Design%20%E2%80%94%20Section%2038%3A%20Experiments",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?vid=ISBN9781592537563",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Quantitative"
+      "category": "Quantitative",
+      "previousUrl": "https://search.crossref.org/?q=Hanington%20%26%20Martin%20%C2%B7%202012%20Universal%20Methods%20of%20Design%20%E2%80%94%20Section%2038%3A%20Experiments"
     },
     {
       "id": "s74",
@@ -1230,11 +1299,13 @@ window.COURSE = {
       "tier": "Read",
       "authors": "Sommer & Sommer · 2020 (as listed)",
       "title": "A Practical Guide to Behavioral Research: Tools and Techniques — Chapter 6: Experimentation",
-      "url": "https://search.crossref.org/?q=Sommer%20%26%20Sommer%20%C2%B7%202020%20%28as%20listed%29%20A%20Practical%20Guide%20to%20Behavioral%20Research%3A%20Tools%20and%20Techniques%20%E2%80%94%20Chapter%206%3A%20Experimentation",
-      "linkType": "Publication lookup",
+      "url": "https://books.google.com/books?id=z8kc8QpHbZIC",
+      "linkType": "Book record / preview",
       "originalLink": false,
       "origin": "Reference syllabus",
-      "category": "Quantitative"
+      "category": "Quantitative",
+      "previousUrl": "https://search.crossref.org/?q=Sommer%20%26%20Sommer%20%C2%B7%202020%20%28as%20listed%29%20A%20Practical%20Guide%20to%20Behavioral%20Research%3A%20Tools%20and%20Techniques%20%E2%80%94%20Chapter%206%3A%20Experimentation",
+      "editionNote": "Catalog page lists editions; use the assigned year and chapter scope above."
     },
     {
       "id": "rtd",
@@ -1397,26 +1468,28 @@ window.COURSE = {
       "category": "Embodiment",
       "authors": "Höök · 2018",
       "title": "Designing with the Body: Somaesthetic Interaction Design",
-      "url": "https://doi.org/10.7551/mitpress/11481.001.0001",
+      "url": "https://books.google.com/books?vid=ISBN9780262038560",
       "question": "How can felt bodily experience shape the design process?",
       "exercise": "Keep a first-person movement journal and compare its insights with another person’s account.",
       "origin": "Extension",
       "tier": "Extension",
-      "linkType": "Added publication / author link",
-      "originalLink": false
+      "linkType": "Book record / preview",
+      "originalLink": false,
+      "previousUrl": "https://doi.org/10.7551/mitpress/11481.001.0001"
     },
     {
       "id": "embodied",
       "category": "Embodiment",
       "authors": "Dourish · 2001",
       "title": "Where the Action Is: The Foundations of Embodied Interaction",
-      "url": "https://mitpress.mit.edu/9780262541787/where-the-action-is/",
+      "url": "https://books.google.com/books?vid=ISBN9780262541787",
       "question": "What is lost when interaction is separated from situated action?",
       "exercise": "Map how an interactive artifact gains meaning through use and context.",
       "origin": "Extension",
       "tier": "Extension",
-      "linkType": "Added publication / author link",
-      "originalLink": false
+      "linkType": "Book record / preview",
+      "originalLink": false,
+      "previousUrl": "https://mitpress.mit.edu/9780262541787/where-the-action-is/"
     },
     {
       "id": "ability",
@@ -1436,26 +1509,28 @@ window.COURSE = {
       "category": "Health",
       "authors": "Skivington et al. · 2021",
       "title": "A New Framework for Developing and Evaluating Complex Interventions: Update of Medical Research Council Guidance",
-      "url": "https://www.bmj.com/content/374/bmj.n2061",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8482308/",
       "question": "Which phase of intervention research is the project ready for, and what is its programme theory?",
       "exercise": "Map development, feasibility, evaluation, and implementation questions for a health interaction concept.",
       "origin": "Extension",
       "tier": "Extension",
-      "linkType": "Added publication / author link",
-      "originalLink": false
+      "linkType": "Open-access article",
+      "originalLink": false,
+      "previousUrl": "https://www.bmj.com/content/374/bmj.n2061"
     },
     {
       "id": "pilot",
       "category": "Health",
       "authors": "Eldridge et al. · 2016",
       "title": "CONSORT 2010 Statement: Extension to Randomised Pilot and Feasibility Trials",
-      "url": "https://www.bmj.com/content/355/bmj.i5239",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5076380/",
       "question": "Which feasibility questions should a randomized pilot answer before a definitive trial?",
       "exercise": "Draft recruitment, retention, and progression criteria. This reporting extension is specific to randomized pilot/feasibility trials, not every HCI pilot.",
       "origin": "Extension",
       "tier": "Extension",
-      "linkType": "Added publication / author link",
-      "originalLink": false
+      "linkType": "Open-access article",
+      "originalLink": false,
+      "previousUrl": "https://www.bmj.com/content/355/bmj.i5239"
     },
     {
       "id": "prisma",
@@ -1583,7 +1658,8 @@ window.COURSE = {
     },
     {
       "title": "groups, experiential learning and action research",
-      "url": "https://infed.org/dir/welcome/kurt-lewin-groups-experiential-learning-and-action-research/"
+      "url": "https://www.psicopolis.com/kurt/lewin.pdf",
+      "previousUrl": "https://infed.org/dir/welcome/kurt-lewin-groups-experiential-learning-and-action-research/"
     },
     {
       "title": "Illinois Wesleyan Action Research Center",
@@ -1591,7 +1667,8 @@ window.COURSE = {
     },
     {
       "title": "Action Research and the Practice of Design",
-      "url": "http://www.spatialdesign.info/blog/wp-content/uploads/2007/12/Swann_DesIss_2002.pdf"
+      "url": "https://doi.org/10.1162/07479360252756287",
+      "previousUrl": "http://www.spatialdesign.info/blog/wp-content/uploads/2007/12/Swann_DesIss_2002.pdf"
     },
     {
       "title": "Introduction to Action Research",
@@ -1615,7 +1692,8 @@ window.COURSE = {
     },
     {
       "title": "Feminist Measures in Survey Research",
-      "url": "https://www.sagepub.com/sites/default/files/upm-assets/45934_book_item_45934.pdf"
+      "url": "https://books.google.com/books?id=X1d2AwAAQBAJ",
+      "previousUrl": "https://www.sagepub.com/sites/default/files/upm-assets/45934_book_item_45934.pdf"
     },
     {
       "title": "How to design survey studies",
@@ -1633,7 +1711,8 @@ window.COURSE = {
     },
     {
       "title": "groups, experiential learning and action research",
-      "url": "https://infed.org/dir/welcome/kurt-lewin-groups-experiential-learning-and-action-research/"
+      "url": "https://www.psicopolis.com/kurt/lewin.pdf",
+      "previousUrl": "https://infed.org/dir/welcome/kurt-lewin-groups-experiential-learning-and-action-research/"
     },
     {
       "title": "Illinois Wesleyan Action Research Center",
@@ -1641,7 +1720,8 @@ window.COURSE = {
     },
     {
       "title": "Action Research and the Practice of Design",
-      "url": "http://www.spatialdesign.info/blog/wp-content/uploads/2007/12/Swann_DesIss_2002.pdf"
+      "url": "https://doi.org/10.1162/07479360252756287",
+      "previousUrl": "http://www.spatialdesign.info/blog/wp-content/uploads/2007/12/Swann_DesIss_2002.pdf"
     },
     {
       "title": "Introduction to Action Research",
@@ -1665,7 +1745,8 @@ window.COURSE = {
     },
     {
       "title": "Feminist Measures in Survey Research",
-      "url": "https://www.sagepub.com/sites/default/files/upm-assets/45934_book_item_45934.pdf"
+      "url": "https://books.google.com/books?id=X1d2AwAAQBAJ",
+      "previousUrl": "https://www.sagepub.com/sites/default/files/upm-assets/45934_book_item_45934.pdf"
     },
     {
       "title": "How to design survey studies",
