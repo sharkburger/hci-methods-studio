@@ -27,7 +27,7 @@ The reading room links to the original publication DOI or an author-hosted publi
 
 ## Teaching and site design
 
-The studio cycle and proposed assessment are editorial teaching choices. ICAP informs the choice to ask learners to explain, compare, and revise; no causal claim about this course’s outcomes has been established. Decorative diagrams are original CSS artwork and are not scientific models.
+The studio cycle and proposed assessment are editorial teaching choices. ICAP informs the choice to ask learners to explain, compare, and revise; no causal claim about this course’s outcomes has been established. The geometric composition is original CSS artwork informed by De Stijl: black orthogonal lines, asymmetry, and primary colors. It is not a reproduction of a specific painting or a scientific model. The typographic direction draws on the reference course’s bold blue italic headings and monospaced text.
 
 The site contains no student accounts, submission backend, tracking scripts, or participant data storage. Search and filters run in the browser. GitHub and linked external sites have their own data practices.
 
